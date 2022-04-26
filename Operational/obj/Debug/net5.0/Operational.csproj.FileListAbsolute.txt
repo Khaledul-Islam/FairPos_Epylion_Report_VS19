@@ -1,0 +1,12 @@
+D:\FairPos_Epylion_Report_VS19\Operational\bin\Debug\net5.0\Operational.deps.json
+D:\FairPos_Epylion_Report_VS19\Operational\bin\Debug\net5.0\Operational.dll
+D:\FairPos_Epylion_Report_VS19\Operational\bin\Debug\net5.0\ref\Operational.dll
+D:\FairPos_Epylion_Report_VS19\Operational\bin\Debug\net5.0\Operational.pdb
+D:\FairPos_Epylion_Report_VS19\Operational\obj\Debug\net5.0\Operational.csproj.AssemblyReference.cache
+D:\FairPos_Epylion_Report_VS19\Operational\obj\Debug\net5.0\Operational.GeneratedMSBuildEditorConfig.editorconfig
+D:\FairPos_Epylion_Report_VS19\Operational\obj\Debug\net5.0\Operational.AssemblyInfoInputs.cache
+D:\FairPos_Epylion_Report_VS19\Operational\obj\Debug\net5.0\Operational.AssemblyInfo.cs
+D:\FairPos_Epylion_Report_VS19\Operational\obj\Debug\net5.0\Operational.csproj.CoreCompileInputs.cache
+D:\FairPos_Epylion_Report_VS19\Operational\obj\Debug\net5.0\Operational.dll
+D:\FairPos_Epylion_Report_VS19\Operational\obj\Debug\net5.0\ref\Operational.dll
+D:\FairPos_Epylion_Report_VS19\Operational\obj\Debug\net5.0\Operational.pdb
